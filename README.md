@@ -1,2 +1,2 @@
 # Fundamentos-JavaScript
- Notas del curso de Fundamnetos de JavaScript de Platzi
+ Notas del curso de Fundamentos de JavaScript de Platzi
